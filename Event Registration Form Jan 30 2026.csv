@@ -1,0 +1,4 @@
+﻿"Submission Date","Full Name","Email Address","Do you attend","Event Date","Ticket Type or Attendance Option","Meal preference","Reason of not joining","Comments or Special Requests"
+"Dec 17, 2025","Mert Keskin",mert@example.com,Yes,"Dec 18, 2025",VIP,Vegan,,"Going to Ankara"
+"Dec 17, 2025","Mert Keskin",mert@example.com,No,,,,,"I will not attend the event because I am going to Ankara."
+"Dec 17, 2025","Mert Keskin",mert@example.com,No,,VIP,Vegan,"Going to Ankara.","I did not attend the event because I am going to Ankara."
